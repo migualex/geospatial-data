@@ -1,4 +1,4 @@
-# SER-347 - Projeto Final
+# SER-347 - Exercício 1 
 
 Este repositório contém o código fonte do trabalho
 final da disciplina SER-347.
