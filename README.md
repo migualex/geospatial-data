@@ -1,21 +1,7 @@
-# SER-347 - Projeto Final
+## Geospatial Data Science
 
-Este repositório contém o código fonte do trabalho
-final da disciplina SER-347.
+The Flood Mapping and NDWI Analysis Using Sentinel-1 & Sentinel-2 code was part of the SER-247 course at INPE. There is an agreement between spatial agencies aimed at supporting satellite missions focused on natural disasters. This trend has stimulated more research in this field, and significant progress has been achieved in recent years through collaboration with the International Charter Space and Major Disasters.
 
-## Contexto e Objetivos
+This code presented an integration test model for RADAR products on the Google Earth Engine (GEE) platform. The goal was to leverage datasets available in GEE to map large urban flood areas using NDWI. 
 
-As inundações urbanas são um exemplo de alteração no meio ambiente, por ser cada vez mais frequentes, diversos fatores podem estar contribuindo para o seu agravamento, como a falta de planejamento das cidades aliada a diversos fatores antrópicos, principalmente o uso indevido do solo. 
-
-Há um acordo entre as agências espaciais, o qual o Instituto Nacional de Pesquisas Espaciais (INPE) está participando, para buscar fortalecer o apoio às missões de satélites com foco na detecção de desastres naturais. Esta tendência tem estimulado mais pesquisas nesta área, um progresso significativo foi alcançado nos últimos anos com a parceria do International Charter Space and Major Disasters. 
-
-Este trabalho apresenta um modelo teste de integração de produtos de radar com a plataforma Google Earth Engine (GEE). O objetivo dessa implementação é possibilitar o acesso e o processamento de coleções de imagens disponibilizados no GEE, para mapear áreas inundadas em grandes centros urbanos, por meio da utilização do índice NDWI.
-
-## Organização do Repositório
-
-Nesta seção explicamos a organização usada para
-os códigos e dados disponibilizados neste trabalho.
-
-## Referências
-
-Alguns links e textos interessantes sobre o projeto...
+Also, the Palm Trees code is part of my work with Deep Learning using Python. I used it to differentiate açaí palm trees from other palm species.
