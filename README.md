@@ -1,5 +1,35 @@
-## Geospatial Data Science
+# Remote Sensing & Machine Learning Projects
 
-Code 1) The Flood Mapping and NDWI Analysis Using Sentinel-1 & Sentinel-2 code was part of the SER-247 course at INPE. There is an agreement between spatial agencies aimed at supporting satellite missions focused on natural disasters. This trend has stimulated more research in this field, and significant progress has been achieved in recent years through collaboration with the International Charter Space and Major Disasters. It presents an integration test model for RADAR products on the Google Earth Engine (GEE) platform. The goal was to leverage datasets available in GEE to map large urban flood areas using NDWI. 
+This repository contains independent projects developed for research and applied remote sensing and machine learning tasks.
 
-Code 2) the Palm Trees code is part of my work with Deep Learning using Python. I used it to differentiate açaí palm trees from other palm species.
+The codes included here cover:
+- Flood mapping using multi-sensor satellite data (Sentinel-1 & Sentinel-2) in Google Earth Engine
+- Deep learning classification of açaí palm trees vs other palm species
+- Cerrado deforestation monitoring methodology adaptation aligned with EU Regulation (2023/1115), including time series clustering and edge/border analysis
+
+---
+
+## Projects
+
+### 1) Flood Mapping and NDWI Analysis (Sentinel-1 & Sentinel-2) — GEE
+A flood mapping workflow built in Google Earth Engine, integrating SAR (Sentinel-1) and optical (Sentinel-2) data. NDWI is used to support large-scale flood detection, especially in urban environments.
+
+📁 `flood-mapping-gee/`
+
+---
+
+### 2) Palm Tree Classification (Deep Learning / Python)
+A Python deep learning project designed to differentiate açaí palm trees from other palm species using supervised classification techniques.
+
+📁 `palm-tree-classification/`
+
+---
+
+### 3) Cerrado Deforestation Monitoring (EU Regulation 2023/1115)
+A methodological improvement of PRODES-like deforestation monitoring for the Cerrado biome, adapted to meet traceability requirements under EU Regulation (2023/1115). The workflow integrates Sentinel-2 and Sentinel-1 time series and applies unsupervised machine learning (SOM + HCA), including deforestation edge/border calculations.
+
+📁 `cerrado-eu-regulation/`
+
+---
+
+
