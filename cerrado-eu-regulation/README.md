@@ -62,9 +62,3 @@ These metrics help improve characterization and monitoring of deforestation beyo
 - Spatial-temporal deforestation pattern maps
 - Edge and fragmentation metrics
 - Results supporting traceability and compliance assessment
-
-This repository is designed for research and methodological development. It can be adapted to operational monitoring pipelines depending on data availability, computational infrastructure, and target compliance needs.
-
-
-
-
