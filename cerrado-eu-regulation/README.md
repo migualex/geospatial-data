@@ -1,4 +1,4 @@
-# Cerrado Deforestation Edge Calculation (EU Regulation 2023/1115) — PRODES Method Adaptation
+# Cerrado Deforestation Edge Calculation (EU Regulation)
 
 This project addresses a methodological adaptation of Brazil’s PRODES deforestation monitoring approach in response to the **European Union Regulation (EU) 2023/1115**.
 
@@ -62,8 +62,6 @@ These metrics help improve characterization and monitoring of deforestation beyo
 - Spatial-temporal deforestation pattern maps
 - Edge and fragmentation metrics
 - Results supporting traceability and compliance assessment
-
-## Notes
 
 This repository is designed for research and methodological development. It can be adapted to operational monitoring pipelines depending on data availability, computational infrastructure, and target compliance needs.
 
