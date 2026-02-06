@@ -39,7 +39,3 @@ This repository provides a flood mapping workflow using:
 - NDWI maps and water masks
 - Flood extent visualization layers
 - Exportable flood polygons or rasters (depending on implementation)
-
-## Notes
-
-This project is intended for educational and research purposes and can be adapted for operational rapid mapping workflows.
