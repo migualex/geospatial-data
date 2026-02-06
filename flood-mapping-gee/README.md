@@ -1,4 +1,4 @@
-# Flood Mapping and NDWI Analysis (Sentinel-1 & Sentinel-2) — Google Earth Engine
+# Flood Mapping and NDWI Analysis (Sentinel-1 & Sentinel-2)
 
 This project was developed as part of the SER-247 course at INPE (National Institute for Space Research, Brazil). It explores an integration workflow for RADAR and optical satellite products within the Google Earth Engine (GEE) environment, focusing on large-scale flood mapping in urban areas.
 
