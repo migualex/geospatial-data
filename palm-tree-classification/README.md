@@ -47,8 +47,3 @@ Depending on the notebook implementation, the workflow may include:
 - Classification metrics
 - Predictions for new imagery
 # 
-
-# This project is a research and learning exercise and may require dataset-specific tuning for operational use.
-
-
-
