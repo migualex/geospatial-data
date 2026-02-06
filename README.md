@@ -1,4 +1,4 @@
-# Remote Sensing & Machine Learning Projects
+# Geospatial Data Science Projects
 
 This repository contains independent projects developed for research and applied remote sensing and machine learning tasks.
 
