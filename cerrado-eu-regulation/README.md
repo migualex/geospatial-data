@@ -1,4 +1,4 @@
-# Cerrado Deforestation Edge Calculation (EU Regulation)
+# Cerrado Deforestation Edge Calculation
 
 This project addresses a methodological adaptation of Brazil’s PRODES deforestation monitoring approach in response to the **European Union Regulation (EU) 2023/1115**.
 
