@@ -1,4 +1,4 @@
-# Palm Tree Classification (Açaí vs Other Palm Species) — Deep Learning
+# Palm Tree Classification (Açaí vs Other Palm Species)
 
 This project is part of my Deep Learning studies using Python. The main goal is to classify and differentiate **açaí palm trees** from other palm species using machine learning and computer vision techniques.
 
