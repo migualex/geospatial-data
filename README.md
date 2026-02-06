@@ -1,6 +1,6 @@
 # Geospatial Data Science projects
 
-This repository contains independent projects developed for research and applied remote sensing and machine learning tasks.
+This repository contains independent projects developed for applied remote sensing and machine learning tasks.
 
 The codes included here cover:
 - Flood mapping using multi-sensor satellite data (Sentinel-1 & Sentinel-2) in Google Earth Engine.
